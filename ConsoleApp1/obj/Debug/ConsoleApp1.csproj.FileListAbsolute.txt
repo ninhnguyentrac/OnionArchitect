@@ -1,0 +1,16 @@
+D:\Exsample\LifeLine\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Exsample\LifeLine\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Exsample\LifeLine\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Exsample\LifeLine\ConsoleApp1\bin\Debug\EntityFramework.dll
+D:\Exsample\LifeLine\ConsoleApp1\bin\Debug\EntityFramework.SqlServer.dll
+D:\Exsample\LifeLine\ConsoleApp1\bin\Debug\LifeLine.Infrastructure.dll
+D:\Exsample\LifeLine\ConsoleApp1\bin\Debug\LifeLine.dll
+D:\Exsample\LifeLine\ConsoleApp1\bin\Debug\LifeLine.Infrastructure.pdb
+D:\Exsample\LifeLine\ConsoleApp1\bin\Debug\LifeLine.Infrastructure.dll.config
+D:\Exsample\LifeLine\ConsoleApp1\bin\Debug\EntityFramework.xml
+D:\Exsample\LifeLine\ConsoleApp1\bin\Debug\EntityFramework.SqlServer.xml
+D:\Exsample\LifeLine\ConsoleApp1\bin\Debug\LifeLine.pdb
+D:\Exsample\LifeLine\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+D:\Exsample\LifeLine\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Exsample\LifeLine\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Exsample\LifeLine\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
